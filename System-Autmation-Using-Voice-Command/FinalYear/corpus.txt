@@ -1,0 +1,41 @@
+open file manager
+open facebook
+open twitter
+open github
+open msword
+open notepad
+open paint
+play song
+open chrome
+Give me time
+give me date
+open internet edge
+open file explorer
+open facebook
+open twitter
+open github
+open msword
+open netbeans
+open VLC
+How are you
+List song
+list Files
+open calculator
+task manager
+Fine
+flutter
+linkedin
+Volume Up
+Volume down
+Brightness Up
+Brightness down
+Mute
+play
+pause
+close
+next
+previous
+caps lock
+Hindi
+news
+exit
